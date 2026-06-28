@@ -7,7 +7,7 @@ const app = express();
 
 app.use(cors({
     // origin: "http://localhost:5173",
-    origin: "https://tasktracker-opal.vercel.app",
+    origin: "https://tasktracker-three-bay.vercel.app",
     credentials: true,
 }));
 
