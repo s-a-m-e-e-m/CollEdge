@@ -1,4 +1,5 @@
-const baseUrl = 'http://localhost:3000/api';
+// const baseUrl = 'http://localhost:3000/api';
+const baseUrl = "https://colledge-ypys.onrender.com/api";
 
 export const signupLink = `${baseUrl}/user/signup`;
 export const signinLink = `${baseUrl}/user/signin`;
